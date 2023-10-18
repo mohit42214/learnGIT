@@ -1,2 +1,2 @@
-# learnGIT
-Learning GIT
+<h3>I am new to git and ecxited to learn this new thing
+</h3>
